@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version 2013-01-22
 Name:		texlive-latex-brochure
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	A publicity flyer for LaTeX
 Group:		Publishing
