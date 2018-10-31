@@ -6,7 +6,7 @@
 # catalog-version 2013-01-22
 Name:		texlive-latex-brochure
 Version:	20180303
-Release:	1
+Release:	2
 Summary:	A publicity flyer for LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/latex-brochure
