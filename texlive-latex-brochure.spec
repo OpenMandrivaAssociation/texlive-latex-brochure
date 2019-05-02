@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 2013-01-22
 Name:		texlive-latex-brochure
-Version:	20180303
-Release:	2
+Version:	20190228
+Release:	1
 Summary:	A publicity flyer for LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/latex-brochure
