@@ -1,18 +1,12 @@
-# revision 28916
-# category Package
-# catalog-ctan /info/latex-brochure
-# catalog-date 2013-01-22 18:02:11 +0100
-# catalog-license lppl
-# catalog-version 2013-01-22
 Name:		texlive-latex-brochure
-Version:	20190228
+Version:	40612
 Release:	1
 Summary:	A publicity flyer for LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/latex-brochure
 License:	LPPL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-brochure.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-brochure.doc.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-brochure.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-brochure.doc.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
@@ -50,7 +44,7 @@ which would then be folded once.
 
 #-----------------------------------------------------------------------
 %prep
-%setup -c -a0 -a1
+%autosetup -p1 -c -a1
 
 %build
 
