@@ -1,6 +1,6 @@
 Name:		texlive-latex-brochure
 Version:	40612
-Release:	1
+Release:	2
 Summary:	A publicity flyer for LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/latex-brochure
