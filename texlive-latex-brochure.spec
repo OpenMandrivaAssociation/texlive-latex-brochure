@@ -3,7 +3,7 @@ Version:	40612
 Release:	2
 Summary:	A publicity flyer for LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/info/latex-brochure
+URL:		https://www.ctan.org/tex-archive/info/latex-brochure
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-brochure.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-brochure.doc.r%{version}.tar.xz
